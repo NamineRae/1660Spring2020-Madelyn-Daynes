@@ -1,6 +1,6 @@
 //Maya ASCII 2020 scene
 //Name: PantherTank.ma
-//Last modified: Thu, Mar 05, 2020 11:47:24 AM
+//Last modified: Thu, Mar 05, 2020 11:54:34 AM
 //Codeset: 1252
 requires maya "2020";
 requires "mtoa" "4.0.0";
@@ -10,7 +10,7 @@ fileInfo "product" "Maya 2020";
 fileInfo "version" "2020";
 fileInfo "cutIdentifier" "201911140446-42a737a01c";
 fileInfo "osv" "Microsoft Windows 10 Technical Preview  (Build 18362)\n";
-fileInfo "UUID" "B6265FB5-4287-D08D-69CB-2893FD5F9530";
+fileInfo "UUID" "D3D704F8-4118-742D-1AA7-3ABA03A81213";
 fileInfo "license" "student";
 createNode transform -s -n "persp";
 	rename -uid "6B9B8A1E-4445-D196-B7CE-828350CC19CA";
